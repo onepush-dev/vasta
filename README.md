@@ -1,6 +1,6 @@
 # Vasta — self-hosted Capacities/Notion-style notes with typed objects and daily notes. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/PLACEHOLDER)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/xVSkFI)
 
 One-click Railway packaging of [Vasta](https://github.com/ariedotme/vasta) (AGPL-3.0): typed objects, daily notes,
 calendars, captures from Telegram/the browser extension/Shortcuts, spaces you can share, and an MCP endpoint.
